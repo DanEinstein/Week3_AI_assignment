@@ -360,7 +360,7 @@ Processing Speed:   1000+ reviews/sec
 
 | Resource | Link |
 |----------|------|
-| **GitHub Repository** | [https://github.com/yourusername/AI-Tools-Assignment] ( https://github.com/DanEinstein/Week3_AI_assignment.git) |
+| **GitHub Repository** |  ( https://github.com/DanEinstein/Week3_AI_assignment.git) |
 | **Streamlit Demo Video** | [Google Drive Link](https://drive.google.com/file/d/13ufF_I0QJpIlGDb6EEifQrA_sOlyXZza/view?usp=drive_link) |
 
 
